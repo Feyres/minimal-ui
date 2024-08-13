@@ -1,6 +1,6 @@
 # rien-doll's minimal-ui mod dawntrail update
 
-new icons for dawntrail updates.
+main modpack updated for dawntrail.
 
 please refer back to [rien doll](https://github.com/rien-doll/minimal-ui) or [slih's](https://github.com/Slip-Up/minimal-ui) githubs for optional mods.
 
