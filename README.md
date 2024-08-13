@@ -1,7 +1,10 @@
-# rien-doll's minimal-ui mod converted to "4k" resolution.
+# rien-doll's minimal-ui mod dawntrail update
 
-Circle buff icons have not been converted, but most other "options" have.
+new icons for dawntrail updates.
 
+please refer back to [rien doll](https://github.com/rien-doll/minimal-ui) or [slih's](https://github.com/Slip-Up/minimal-ui) githubs for optional mods.
+
+--------------------------------------
 ## Preview
 ![1](https://github.com/Slip-Up/minimal-ui/blob/master/Minimal%20UI%204k.jpg?raw=true)
 
